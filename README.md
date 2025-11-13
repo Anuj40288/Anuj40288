@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anujdeep yadav
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning frontend 
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to new project
 - 📫 How to reach me by insta id Anujdeep_84
 - 😄 Pronouns: he
